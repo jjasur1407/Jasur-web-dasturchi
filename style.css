@@ -1,0 +1,46 @@
+
+.div1{
+    width: 400px!important;
+    height: 300px!important;
+    background: #fffef7 !important;
+    border: 1px solid silver !important;
+    transition: 1s;
+}
+.img1{
+    width: 170px!important;
+    height: 170px!important;
+    border-radius: 50%!important;
+    margin-left: 120px;
+    margin-top: -80px!important;
+    object-fit: cover;
+}
+.container{
+    margin-top: 200px!important;
+}
+.h21{
+    text-align: center!important;
+    margin-top: 60px!important;
+}
+.div1:hover{
+    box-shadow: 16px 22px 1px 15px rgba(34, 60, 80, 0.2);
+
+}
+.main{
+    width: 1400px!important;
+    margin-top: 100px;
+    padding: 65px!important;
+
+}
+.carousel-indicators>li{
+    width: 15px !important;
+    height: 15px!important;
+    background-color: #000000 !important;
+    border-radius: 50% !important;
+}
+
+
+.M-1{
+    width: 1450px;
+    margin: 100px auto;
+    padding: 25px!important;
+}
